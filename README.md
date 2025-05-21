@@ -1,12 +1,31 @@
-# React + Vite
+# 📝 To-Do List App with React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, modern and responsive To-Do List application built with **React**, **Vite**, and **localStorage** support.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add, delete, and reorder tasks
+- ✅ Save tasks using `localStorage`
+- ✅ Toast notifications on task actions
+- ✅ Responsive and mobile-friendly UI
+- ✅ Built with modern tooling: Vite + React Hooks
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Preview
+
+![image](https://github.com/user-attachments/assets/e8cc858d-fb56-4479-a6cd-fa90ca702aa3)
+
+---
+
+## 📦 Technologies Used
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [CSS3 / Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+- [LocalStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
+
+
